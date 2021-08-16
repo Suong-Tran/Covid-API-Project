@@ -1,8 +1,9 @@
 # Weather-API-Project
 
-## Name: Suong D. Tran
+## Name: 
+Suong D. Tran
 
-## Description:
+### Description:
 
 This project will utilize two main APIs: [Google map](https://console.cloud.google.com/home/dashboard) and [Weather Stack](https://weatherstack.com/dashboard) as well as [PostMan](https://documenter.getpostman.com/view/1134062/T1LJjU52) to create a project so that user can choose a capital from the list and the Google Map will direct the user to said country. There will also be information about the weather at said country.
 
